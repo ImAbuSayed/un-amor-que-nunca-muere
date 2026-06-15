@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-amor-que-nunca-muere/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Un amor que nunca muere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-que-nunca-muere/) |
+| **Get License** | [License this song: Un amor que nunca muere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-que-nunca-muere/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6a82af19bfbc0371345094b487f081e5e559d79a781279473c4a206275c463d2` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

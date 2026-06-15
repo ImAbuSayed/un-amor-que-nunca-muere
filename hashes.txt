@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un amor que nunca muere
+
+This log tracks the cryptographic history and versioning for the song **Un amor que nunca muere** (un-amor-que-nunca-muere).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:26:20.682808 | `v1` | `6a82af19bfbc0371345094b487f081e5e559d79a781279473c4a206275c463d2` | `0e0b89a653ee26323e540eed403e94a306abc9173430bbfe24e34b8136e52286` | `2026-06-15_un-amor-que-nunca-muere-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
