@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-amor-que-nunca-muere/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Un amor que nunca muere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-que-nunca-muere/) |
+| **Get License** | [Request Licensing for Un amor que nunca muere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-que-nunca-muere/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas
+> Que el deseo ya no se me apaga
+> Siento el fuego cuando tú me abrazas
+> Eres el pecado que me mata
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
